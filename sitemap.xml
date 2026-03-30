@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://jsonnet-libs.github.io/cluster-api-provider-tinkerbell-libsonnet/</loc>
+         <lastmod>2026-03-30</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/cluster-api-provider-tinkerbell-libsonnet/0.6/</loc>
+         <lastmod>2026-03-30</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/cluster-api-provider-tinkerbell-libsonnet/0.6/infrastructure/</loc>
+         <lastmod>2026-03-30</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/cluster-api-provider-tinkerbell-libsonnet/0.6/infrastructure/v1beta1/</loc>
+         <lastmod>2026-03-30</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/cluster-api-provider-tinkerbell-libsonnet/0.6/infrastructure/v1beta1/tinkerbellCluster/</loc>
+         <lastmod>2026-03-30</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/cluster-api-provider-tinkerbell-libsonnet/0.6/infrastructure/v1beta1/tinkerbellMachine/</loc>
+         <lastmod>2026-03-30</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/cluster-api-provider-tinkerbell-libsonnet/0.6/infrastructure/v1beta1/tinkerbellMachineTemplate/</loc>
+         <lastmod>2026-03-30</lastmod>
+    </url>
+</urlset>
